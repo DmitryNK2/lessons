@@ -1,0 +1,45 @@
+head {
+    background-color: rgb(104, 240, 86);
+}
+body{
+    background-color: rgb(206, 227, 233);
+    padding: 1%;
+}
+.column_style {
+    background-color: rgb(204, 196, 181);
+    margin: 3px;
+    border-radius: 5px;
+    height: 13.2cm;
+
+}
+h5{
+    padding-top: 1%;
+}
+.text {
+    text-indent: 3%;  
+}
+.row-head {
+    background-color: rgb(35, 197, 157);
+}
+.container-style{
+    display: flex;
+}
+.row-col{
+    position: relative;
+}
+.row-button{
+    position: absolute;
+    top: 12cm;
+}
+
+.button-link{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-family: Arial;
+    color:white;
+    font-weight: bold;
+    background-color: black;
+}
+.button-col{
+    top: 1cm;
+}
